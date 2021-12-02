@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/clash-of-clans/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/clash-of-clans/' : '/',
   pages: {
     index: {
       entry: 'src/main.js',
