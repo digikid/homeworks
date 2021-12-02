@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: '/clash-of-clans/',
   pages: {
     index: {
       entry: 'src/main.js',
