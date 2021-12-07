@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/vue-modules/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/vue-notes/' : '/',
   pages: {
     index: {
       entry: 'src/main.js',
