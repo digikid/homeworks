@@ -1,3 +1,3 @@
-# Домашние работы
+# Homeworks
 
-Домашние задания к обучающим курсам
+Homeworks for training courses
